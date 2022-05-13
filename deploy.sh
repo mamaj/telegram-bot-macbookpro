@@ -1,3 +1,5 @@
+#!/bin/bash
+
 $AWSID="123456789012"
 $REGION="ca-central-1"
 $IMAGE="lambda-telegram-macbook"
